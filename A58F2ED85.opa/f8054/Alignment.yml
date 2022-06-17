@@ -1,0 +1,16 @@
+segment_sources:
+  ID674E7D4:
+    type: origin_type
+    relation: translation
+    language: en
+  IA927DB15:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e6f1d7e40e3d4c508bc61e661878aa11:
+    ID674E7D4: b3abc2d6768e44689ca24144578ae4f0
+    IA927DB15: d0fa16f47df1428f87a82e8bf2608073
+  a3db2de3f41a4b579259b6b07e0e5cbb:
+    ID674E7D4: 1515b31af31447cfb4e12e8601bd98b5
+    IA927DB15: db0d5b1df26641ec970a00bf0c97b6b9

@@ -1,0 +1,19 @@
+segment_sources:
+  ID674E7D4:
+    type: origin_type
+    relation: translation
+    language: en
+  IA927DB15:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bd1559297e7a417a97cd6a858d6654b5:
+    ID674E7D4: 44c7ac42b7de4a4f8e0550d3bd075c96
+    IA927DB15: a0a9fa1f47ee4444840a81187f6b263d
+  ca809daea2524386a9c7b2ffc021b36b:
+    ID674E7D4: 4ae375d0426a4b1c971de18ff8706ddc
+    IA927DB15: 6c6b67f1709f4de780a39e97594adab8
+  45cc613e9ab049e48230e9d686c6e884:
+    ID674E7D4: f7997b440cf349a0b2c5977a31fc5a8f
+    IA927DB15: 5bba96360e4946828125a7617a1802ef
